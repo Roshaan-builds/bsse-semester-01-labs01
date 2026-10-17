@@ -1,4 +1,9 @@
 import java.util.Scanner;
+
+// Task 9: Predict the Precedence	[Medium]
+// Before running anything, write on paper the value you expect for each expression in the code below. Then type the program exactly as given and run it to check your predictions.
+// In a comment next to each line, write which rule explains the result: precedence, left-to-right associativity, integer division, or a type cast.
+    
 public class PrecedenceDemo{
     public static void main(String[] args){
         int a = 10 + 4 * 3 - 6 / 2;
