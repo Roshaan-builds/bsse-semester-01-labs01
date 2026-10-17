@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Task 4: Fuel Average of a Car	[Easy]
 // A driver wants to know how economical the car is. Read the distance travelled (km), the fuel used (litres) and the price of one litre, then print the fuel average in km per litre and the fuel cost of one kilometre.
 // Print both results with two decimal places.
     
