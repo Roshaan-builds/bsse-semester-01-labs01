@@ -12,7 +12,7 @@ This repository contains my first-semester programming lab exercises as a BS Sof
 Each lab is organized separately to make the exercises easy to navigate.
 
 ## Technologies
-- Language: [Your programming language]
-- IDE: [Your development environment]
+- Language: [Java]
+- IDE: [InteliJ IDEA]
 
 These are educational exercises documenting my learning journey.
