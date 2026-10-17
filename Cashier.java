@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+// Task 10: Cash Counter	[Medium]
+// A cashier wants to pay an amount using the fewest notes. Read a whole amount in rupees and print how many notes of Rs. 5000, 1000, 500, 100, 50 and 10 are needed, followed by the rupees left over.
+// Use / to count the notes of one kind and % to keep the amount that is still unpaid.
+    
 public class Cashier {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
