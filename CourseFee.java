@@ -1,4 +1,9 @@
 import java.util.Scanner;
+
+// Task 5: Total Fee of Five Courses	[Easy]
+// A student enrols in five courses. Read the credit hours of each course (five whole numbers) and compute the total credit hours and the total fee at Rs. 9,500 per credit hour.
+// Keep the fee per credit hour in a final int constant named FEE_PER_CREDIT.
+    
 public class CourseFee{
     public static void main(String[] args){
         Scanner CourseFee =new Scanner(System.in);
